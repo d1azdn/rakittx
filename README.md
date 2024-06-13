@@ -4,22 +4,20 @@
 </div>
 
 ## RakitTX
-RakitTX is a simulation website that using laravel, php and bootstrap as core of the proejects. Contains MVC and CRUD using MySQL Databases.
+RakitTX is a simulation website that using laravel, php and bootstrap as core of the projects. Contains MVC and CRUD using MySQL Databases.
 
 ## Overview
 <div align="center">
-<img src="First.PNG" style="width:100%; height:300px">
+<img src="First.PNG" style="width:100%; height:500px">
 <br>
-<div align="center">
-<img src="Second.PNG" style="width:100%; height:300px">
+<img src="Second.PNG" style="width:100%; height:500px">
 <br>
-<div align="center">
-<img src="Third.PNG" style="width:100%; height:300px">
+<img src="Third.PNG" style="width:100%; height:500px">
 <br>
-<div align="center">
-<img src="Forth.PNG" style="width:100%; height:300px">
+<img src="Forth.PNG" style="width:100%; height:500px">
 <br>
 Check this website : rakittx.000webhostapp.com
+</div>
 
 ## Getting Started
 1. Clone this website at your directory.
