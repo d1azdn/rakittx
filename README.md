@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./assets/gradient.jpg" style="width:100%; height:150px">
+<img src="gradient.jpeg" style="width:100%; height:150px">
 
 </div>
 
@@ -34,6 +34,6 @@ You can see images below as showcase before i deployed the web.
 
 ##
 <div align="center" style="display:flex; align-items:center; text-align:center; justify-content: center;">
-<img src="./assets/Logo-removebg-preview.png" style="width:200px">
+<img src="Logo.png" style="width:200px">
 <p style="font-size:25px">Hello.</p>
 </div>
